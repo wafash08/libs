@@ -1,7 +1,7 @@
 /**
  * @author: wafash08
- * @param {str} The sentence you want to chcek
- * @returns {boolean} if sentence contains 'viagra' or 'xxx'
+ * @param {string} str The sentence you want to chcek
+ * @returns {boolean} if the sentence contains 'viagra' or 'xxx'
  * @source: https://javascript.info/string
  */
 
