@@ -1,6 +1,7 @@
 /**
  * @author: wafash08
  * @param {array} arr
+ * @param {boolean} admitEmptySubarray if empty array is allowed or not
  * @returns {number} the max sum of contiguous numbers
  * @source: https://javascript.info/array
  */
